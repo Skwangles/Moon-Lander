@@ -1,0 +1,11 @@
+C:\Users\18300\Source\Repos\Moon-Lander\Moon Lander\bin\Debug\Moon Lander.exe.config
+C:\Users\18300\Source\Repos\Moon-Lander\Moon Lander\bin\Debug\Moon Lander.exe
+C:\Users\18300\Source\Repos\Moon-Lander\Moon Lander\bin\Debug\Moon Lander.pdb
+C:\Users\18300\Source\Repos\Moon-Lander\Moon Lander\obj\Debug\Moon Lander.csprojResolveAssemblyReference.cache
+C:\Users\18300\Source\Repos\Moon-Lander\Moon Lander\obj\Debug\Moon_Lander.Form1.resources
+C:\Users\18300\Source\Repos\Moon-Lander\Moon Lander\obj\Debug\Moon_Lander.Game.resources
+C:\Users\18300\Source\Repos\Moon-Lander\Moon Lander\obj\Debug\Moon_Lander.Properties.Resources.resources
+C:\Users\18300\Source\Repos\Moon-Lander\Moon Lander\obj\Debug\Moon Lander.csproj.GenerateResource.cache
+C:\Users\18300\Source\Repos\Moon-Lander\Moon Lander\obj\Debug\Moon Lander.csproj.CoreCompileInputs.cache
+C:\Users\18300\Source\Repos\Moon-Lander\Moon Lander\obj\Debug\Moon Lander.exe
+C:\Users\18300\Source\Repos\Moon-Lander\Moon Lander\obj\Debug\Moon Lander.pdb
